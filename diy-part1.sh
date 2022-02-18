@@ -14,5 +14,5 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git OpenClash https://github.com/vernesong/OpenClash'  >>feeds.conf.default
-
+echo 'src-git https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
+echo 'src-git https://github.com/kenzok8/openwrt-packages'. >>feeds.conf.default
