@@ -15,4 +15,4 @@
 
 # Add a feed source
 echo 'src-git https://github.com/liuran001/openwrt-packages' >>feeds.conf.default
-echo 'src-git https://github.com/kenzok8/openwrt-packages'. >>feeds.conf.default
+echo 'src-git https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
